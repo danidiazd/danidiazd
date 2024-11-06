@@ -6,7 +6,7 @@
 
 
 ```js
-import Developer from "invictuzzzzz";
+import Developer from "DaniDiazd";
 
 
 class AboutMe extends Developer {
