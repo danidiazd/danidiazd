@@ -69,8 +69,8 @@ class Skills extends Developer {
 
 <br/>
 
-<a href="https://github.com/invictuzzzzz" title="Perfil de Dani">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=invictuzzzzz&theme=dracula&show_icons=true" />
+<a href="https://github.com/danidiazd" title="Perfil de Dani">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danidiazd&theme=dracula&show_icons=true" />
 </a>
 
 ## Donde encontrarme.
