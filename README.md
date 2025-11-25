@@ -12,7 +12,7 @@ import Developer from "DaniDiazd";
 class AboutMe extends Developer {
   name = "Daniel Diaz Diaz";
   area = "BackEnd Developer";
-  work = "Open to work.";
+  work = "Software Engineer at CaixaBank Tech.";
 }
 
 class Skills extends Developer {
