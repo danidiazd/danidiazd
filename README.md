@@ -28,7 +28,8 @@ class Skills extends Developer {
 
 - 🤔 Curioso por naturaleza y con ganas de aprender.
 - 🎓 Graduado de BackEnd Java & SpringBoot en @IT-Academy BCN.
-- 💼 En busqueda de empleo.
+- 💼 Software Engineer at CaixaBank Tech 
+- ☕️ Java Developer 8 , 11.
 - 🌱 Aprendiendo mas sobre {Angular & Python}.
 
 ## Mis Skills.
